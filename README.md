@@ -34,4 +34,20 @@
 
 ---
 
+## 📌 Projeto de testes
+
+### 🛒 [price-tracker-ts](https://github.com/ZuehtzZ/price-tracker-ts)
+
+Uma CLI pequena desenvolvida em **TypeScript** para coletar informações públicas de produtos em páginas web, incluindo **nome do produto**, **preço** e **moeda**.
+
+O projeto utiliza **Playwright** para ler páginas renderizadas por JavaScript, buscando dados estruturados em **JSON-LD**, meta tags comuns e seletores personalizados informados pelo usuário.
+
+<p align="left">
+  <a href="https://github.com/ZuehtzZ/price-tracker-ts">
+    <img src="https://img.shields.io/badge/Ver%20repositório-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</p>
+
+---
+
 > Construindo, aprendendo e melhorando.
