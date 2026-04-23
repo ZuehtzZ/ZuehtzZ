@@ -34,16 +34,44 @@
 
 ---
 
-## 📌 Projeto de testes
+## 📌 Projetos em destaque
 
 ### 🛒 [price-tracker-ts](https://github.com/ZuehtzZ/price-tracker-ts)
 
-Uma CLI pequena desenvolvida em **TypeScript** para coletar informações públicas de produtos em páginas web, incluindo **nome do produto**, **preço** e **moeda**.
+Uma CLI desenvolvida em **TypeScript** para coletar informações públicas de produtos em páginas web, incluindo **nome do produto**, **preço** e **moeda**.
 
 O projeto utiliza **Playwright** para ler páginas renderizadas por JavaScript, buscando dados estruturados em **JSON-LD**, meta tags comuns e seletores personalizados informados pelo usuário.
 
 <p align="left">
   <a href="https://github.com/ZuehtzZ/price-tracker-ts">
+    <img src="https://img.shields.io/badge/Ver%20repositório-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</p>
+
+---
+
+### 🩺 [api-health-checker](https://github.com/ZuehtzZ/api-health-checker)
+
+Uma CLI em **TypeScript** para testar várias rotas de API e mostrar quais endpoints estão **online**, **lentos** ou com **erro**.
+
+O projeto lê endpoints a partir de um arquivo JSON, testa status HTTP, mede tempo de resposta, classifica os resultados e permite exportar relatórios em JSON.
+
+<p align="left">
+  <a href="https://github.com/ZuehtzZ/api-health-checker">
+    <img src="https://img.shields.io/badge/Ver%20repositório-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</p>
+
+---
+
+### 🔐 [env-validator](https://github.com/ZuehtzZ/env-validator)
+
+Uma pequena biblioteca em **TypeScript** para validar variáveis de ambiente obrigatórias em aplicações Node.js.
+
+Ela ajuda aplicações a falharem logo no início caso alguma configuração essencial esteja ausente, retornando valores tipados e mensagens de erro claras.
+
+<p align="left">
+  <a href="https://github.com/ZuehtzZ/env-validator">
     <img src="https://img.shields.io/badge/Ver%20repositório-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
 </p>
